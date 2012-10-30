@@ -7,14 +7,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="33.267509"
-   height="31.638935"
+   width="35.672508"
+   height="32.379135"
    id="svg3000"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 3">
+   sodipodi:docname="al.svg">
   <defs
      id="defs3002" />
   <sodipodi:namedview
@@ -24,21 +25,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.970129"
-     inkscape:cx="16.633755"
-     inkscape:cy="15.819468"
+     inkscape:zoom="76.182304"
+     inkscape:cx="2.3811917"
+     inkscape:cy="2.4736279"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
      inkscape:window-width="1356"
-     inkscape:window-height="631"
+     inkscape:window-height="713"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata3005">
     <rdf:RDF>
@@ -47,20 +50,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="image"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-358.36625,-516.54271)">
+     transform="translate(-357.26494,-516.75749)"
+     style="display:none">
+    <image
+       y="511.00854"
+       x="354.06287"
+       id="image3461"
+       xlink:href="file:///data/Documents/projects/fonts/OFFCEHS/dev/sources/irq%20bitig/al/05%20-%2010a.png"
+       height="46"
+       width="43" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vector"
+     style="display:inline"
+     transform="translate(1.1013078,-0.21477922)">
     <path
        style="fill:#000000"
-       d="m 358.56738,547.09452 c -1.3145,-2.1269 3.90276,-4.31294 13.05385,-5.46959 l 5,-0.63197 0,-12.15566 0,-12.15565 5.23139,-0.11879 c 4.85651,-0.11028 5.42144,0.13038 7.88358,3.35842 2.01251,2.63853 2.34364,3.66791 1.3729,4.26787 -0.63081,7.65638 -0.3777,14.05823 0.0121,20.76205 l -5.4443,0.68022 c -3.50236,0.4376 -6.22213,0.26394 -7.625,-0.48685 -1.50445,-0.80516 -2.83968,-0.85953 -4.3057,-0.17532 -1.97839,0.92333 -11.69949,3.2124 -13.64228,3.2124 -0.47558,0 -1.16704,-0.48921 -1.53657,-1.08713 z"
+       d="M 0.09989875,30.855504 C -1.2620934,28.758699 4.4075838,27.453645 13.558674,26.296995 l 5,-0.63197 c 0,0 -0.396498,-7.561475 -0.404925,-11.34581 -0.0096,-4.3239298 0.404925,-12.9655 0.404925,-12.9655 l 5.23139,-0.11879 c 4.85651,-0.11028 5.42144,0.13038 7.88358,3.35842 2.01251,2.63853 2.34364,3.66791 1.3729,4.26787 -0.112943,0.1838652 -0.56854,0.386853 -0.680372,1.1212666 -0.270544,4.7114934 0.497572,16.2888734 0.692472,19.6407834 l -5.4443,0.68022 c -3.50236,0.4376 -6.525826,0.263945 -7.928694,-0.48685 -0.752225,-0.40258 -0.666665,-1.181742 -0.793777,-1.904057 -1.803322,0.375892 -4.190419,1.954284 -6.156045,2.364541 C 8.8673108,31.084539 5.0880593,31.957758 1.6364388,31.436478 1.096018,31.354861 0.33651261,31.219774 0.09989875,30.855504 z"
        id="path2987"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscccssccsssss" />
+       sodipodi:nodetypes="sscacsscccsscsss" />
   </g>
 </svg>

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in *.svg; do
+	filename=`echo $i | sed -r 's/(.*)\.svg/\1/'`
+	if [ -f $filename.png ]; then
+		echo "$filename.png already exists!";
+	else
+		convert -density 100 $i $filename.png
+	fi;
+done;
