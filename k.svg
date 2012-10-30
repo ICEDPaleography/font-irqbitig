@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   width="49.667908"
+   height="35.148148"
+   sodipodi:docname="k.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1356"
+     inkscape:window-height="631"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="13.334078"
+     inkscape:cx="24.833953"
+     inkscape:cy="20.573906"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bitmap"
+     style="display:none"
+     transform="translate(-5.3320936,-4.5064663)">
+    <image
+       style="display:inline"
+       width="58"
+       height="45"
+       xlink:href="file:///data/Documents/projects/fonts/OFFCEHS/dev/sources/irq%20bitig/k/08%20-%20p49a.png"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="vector"
+     style="opacity:1;display:inline"
+     transform="translate(-5.3320936,-4.5064663)">
+    <path
+       style="fill:#000000"
+       d="m 17.194697,37.402209 c -2.076429,-3.242935 -2.22358,-6.942217 1.375545,-11.479825 0.782335,-0.986332 1.828474,-1.661268 1.828474,-1.661268 0,0 -0.969097,-0.554999 -1.655979,-0.866412 -0.939206,-0.425811 -2.931209,-0.523171 -3.913734,0.529963 -0.982525,1.053134 -2.792219,0.459731 -3.678536,-0.01321 C 10.26415,23.438507 8.4030685,22.328974 7.6191863,21.632707 6.0514214,20.240173 5.6112404,18.733216 8.0495951,16.758757 11.488069,13.974451 14.974229,14.56894 19.15648,18.652799 l 3.740806,3.652799 c 0,0 3.141927,-1.947466 5.096848,-2.758124 1.954921,-0.810658 4.282135,-1.445032 6.637491,-2.021019 0.909647,-0.222448 1.066145,-0.979837 1.066145,-0.979837 l -6.705604,-0.04794 c -2.858155,-0.02043 -7.224803,-2.591063 -7.606852,-5.157501 -0.387089,-2.6002986 1.948859,-3.9987007 3.901705,-4.8198107 3.805218,-1.5999741 6.399586,-1.6031123 9.419627,2.1588581 2.005386,2.4980466 -8.34e-4,3.2874616 9.660346,3.4692526 C 50.112883,12.257596 54,15.114705 54,16.790362 c 0,0.40934 -2.8125,1.825913 -6.25,3.147939 -3.4375,1.322025 -7.6,2.933544 -9.25,3.581153 -1.65,0.647608 -4.507555,2.448575 -6.350122,4.002149 -3.001965,2.531127 -3.33516,4.15178 -3.067606,5.82497 0.606892,1.999352 0.615517,1.983793 1.705109,4.062675 0,0 -2.862743,0.80283 -4.326392,0.760727 -1.08383,-0.03118 -2.107375,-0.512113 -3.166006,-0.746547 -1.385555,-0.306831 -2.385566,1.200527 -3.644161,1.230381 -0.998953,0.0237 -1.960641,-0.477761 -2.456125,-1.2516 z"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscszssssczscsssssssssccasss" />
+  </g>
+</svg>
