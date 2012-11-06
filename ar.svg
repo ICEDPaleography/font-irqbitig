@@ -7,14 +7,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32.964558"
-   height="27.077482"
+   width="34.964596"
+   height="29.077507"
    id="svg3009"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="ar.svg">
   <defs
      id="defs3011" />
   <sodipodi:namedview
@@ -24,21 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.7157292"
-     inkscape:cx="16.482277"
-     inkscape:cy="13.538741"
+     inkscape:zoom="15.411765"
+     inkscape:cx="19.472342"
+     inkscape:cy="14.882693"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="476"
-     inkscape:window-height="425"
-     inkscape:window-x="613"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:window-width="1356"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3014">
     <rdf:RDF>
@@ -47,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,11 +56,27 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-358.51772,-518.82344)">
+     transform="translate(-357.51774,-517.82313)"
+     style="display:none">
+    <image
+       y="515.01794"
+       x="352.99008"
+       id="image2991"
+       xlink:href="file:///data/Documents/projects/fonts/OFFCEHS/dev/sources/irq%20bitig/ar/01%20-%20p07b.png"
+       height="34"
+       width="48" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vector"
+     transform="translate(0.99998056,1.00031)">
     <path
+       transform="translate(-358.51772,-518.82344)"
        style="fill:#000000"
-       d="m 379.12274,543.34862 c -0.53639,-1.4108 -0.97525,-3.6608 -0.97525,-5 0,-3.01154 -0.17687,-3.00986 -9.67843,0.0918 -8.48518,2.76985 -11.69964,2.66408 -9.0423,-0.29751 2.36876,-2.63998 3.10181,-8.36381 1.37156,-10.70943 -1.34994,-1.83003 -1.23166,-2.07661 1.55901,-3.25 7.01619,-2.95008 12.61798,-0.15881 11.44559,5.70314 -0.56537,2.82684 -0.40858,3.02714 2.36957,3.02714 2.86847,0 2.97857,-0.1701 3.07468,-4.75 0.16827,-8.01826 0.68507,-8.71055 6.75226,-9.04516 l 5.35194,-0.29516 -0.69619,11.04516 c -0.5616,8.91012 -0.43633,11.06041 0.64807,11.12403 1.60784,0.0943 -8.0943,4.88973 -9.93051,4.90826 -0.70111,0.007 -1.71361,-1.14143 -2.25,-2.55223 z"
+       d="m 379.05588,539.84098 c 0,-0.98669 0.0207,-2.77732 0.0216,-3.8038 -1.23191,0.0117 -5.85762,0.85241 -10.6084,2.40324 -8.48517,2.76987 -11.69964,2.66408 -9.0423,-0.29751 2.36876,-2.63998 3.10181,-8.36381 1.37156,-10.70943 -1.34994,-1.83003 -1.23166,-2.07661 1.55901,-3.25 7.01619,-2.95008 12.61798,-0.15881 11.44559,5.70314 -0.28269,1.41342 -0.38483,2.29997 -0.5232,2.83317 0.64023,0.20879 1.50373,0.19397 2.89281,0.19397 1.43423,0 2.04911,0.0873 2.9014,-0.009 0.0737,-0.87455 0.12522,-2.45136 0.17328,-4.74131 0.16826,-8.01826 0.68507,-8.71055 6.75226,-9.04516 l 5.35194,-0.29516 -0.69619,11.04516 c -0.5616,8.91012 -0.43633,11.06041 0.64807,11.12403 1.60784,0.0943 -8.0943,4.88973 -9.93051,4.90826 -0.70111,0.007 -1.25941,-0.62235 -1.79583,-2.03317 -0.53642,-1.41082 -0.52109,-2.68754 -0.52109,-4.02674 z"
        id="path2996"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssssscscsscscccsc" />
   </g>
 </svg>
