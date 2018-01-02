@@ -10,7 +10,7 @@ The Irq bitig contains the following characters:
 | a/æ | _ | ![01 - p07](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/A/01%20-%20p07.png) | ![](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/A.png) | 10C00 | 10C01
 | i/ı | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/I/03%20-%20p07b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/I.png) | 10C03 | 10C04 |
 | o/u | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/u/02%20-%20p08a.png) | _ | 10C06 | |
-| ö/ü | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ü/03%20-%20p08b.png) | _ | 10C07 | 10C08 |
+| ö/ü | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ü/03%20-%20p08b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ü.png) | 10C07 | 10C08 |
 | ba | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ba/02%20-%20p11b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ba.png) | 10C09 | 10C0A |
 | bæ | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/be/04%20-%20p09a.png) | _ | 10C0B | 10C0C |
 | ç | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ç/03%20-%20p18a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ç.png) | 10C32 | 10C33 |
@@ -34,7 +34,7 @@ The Irq bitig contains the following characters:
 | as | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/as/04%20-%20p18a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/as.png) | 10C3D | |
 | ş | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/aş/03%20-%20p10b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/şa.png) | 10C3F | 10C40 / 10C41, 10C42 |
 | at | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/at/02%20-%20p08a.png) | _ | 10C43 | 10C44 |
-| æt | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/et/03%20-%20p11b.png) | _ | 10C45 | 10C46 |
+| æt | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/et/03%20-%20p11b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/et.png) | 10C45 | 10C46 |
 | ay | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ay/02%20-%20p11b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ay.png) | 10C16 | 10C17 |
 | æy | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ey/01%20-%20p07b.png) | _ | 10C18 | 10C19 |
 | nç | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/n%C3%A7/02%20-%20p08a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/nç.png) | 10C28 | |
