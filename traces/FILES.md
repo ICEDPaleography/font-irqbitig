@@ -9,7 +9,7 @@ The Irq bitig contains the following characters:
 | ------------- | ------------- | ------ | ----- | ------- | --------------------- |
 | a/æ | _ | ![01 - p07](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/A/01%20-%20p07.png) | ![](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/A.png) | 10C00 | 10C01
 | i/ı | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/I/03%20-%20p07b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/I.png) | 10C03 | 10C04 |
-| o/u | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/u/02%20-%20p08a.png) | _ | 10C06 | |
+| o/u | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/u/07%20-%20p15a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/U.png) | 10C06 | |
 | ö/ü | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ü/03%20-%20p08b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ü.png) | 10C07 | 10C08 |
 | ba | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ba/02%20-%20p11b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ba.png) | 10C09 | 10C0A |
 | bæ | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/be/04%20-%20p09a.png) | _ | 10C0B | 10C0C |

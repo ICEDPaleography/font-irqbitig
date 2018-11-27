@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="38.484051"
+   height="34.245388"
+   viewBox="0 0 38.484051 34.245388"
+   sodipodi:docname="u.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="987"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="19.425"
+     inkscape:cx="16.998208"
+     inkscape:cy="17.343047"
+     inkscape:window-x="2677"
+     inkscape:window-y="600"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bitmap"
+     style="display:none"
+     transform="translate(-5.5017924,-3.0976587)">
+    <image
+       width="45"
+       height="40"
+       preserveAspectRatio="none"
+       xlink:href="file:///home/jwashin1/Documents/font-irqbitig/sources/u/07%20-%20p15a.png"
+       id="image10"
+       x="0"
+       y="0"
+       sodipodi:absref="/home/jwashin1/Documents/font-irqbitig/sources/u/07 - p15a.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vector"
+     style="display:inline"
+     transform="translate(-5.5017924,-3.0976587)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6.6409266,5.5083655 C 7.7220077,5.3024453 15.752896,3.9124839 18.790219,4.1184041 18.635779,4.8906049 18.584298,6.8468468 19.099099,7.2072072 21.209781,8.4427284 35.881596,12.870012 42.985843,14.826255 25.482626,18.738739 18.738739,21.467181 22.084942,33.976834 18.738739,35.727155 13.384813,37.425997 7.8764479,35.469755 6.5379666,26.512226 9.72973,18.687258 27.438867,15.238094 22.805663,15.186615 7.7220077,12.097812 6.7953668,11.06821 6.4350065,10.244529 6.4350064,6.023166 6.6409266,5.5083655 Z"
+       id="path819"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>
