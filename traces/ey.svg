@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="48.700443"
+   height="43.934216"
+   viewBox="0 0 48.700443 43.934216"
+   sodipodi:docname="ey.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1060"
+     inkscape:window-height="756"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="9.494318"
+     inkscape:cx="24.554553"
+     inkscape:cy="22.757131"
+     inkscape:window-x="100"
+     inkscape:window-y="171"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bitmap"
+     style="display:none"
+     transform="translate(-4.7787808,-8.1562493)">
+    <image
+       width="58.666668"
+       height="58.666668"
+       preserveAspectRatio="none"
+       xlink:href="file:///data/Documents/projects/fonts/font-irqbitig/sources/ey/01%20-%20p07b.png"
+       id="image10"
+       x="0"
+       y="0"
+       sodipodi:absref="/data/Documents/projects/fonts/font-irqbitig/sources/ey/01 - p07b.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="vector"
+     style="display:inline"
+     transform="translate(-4.7787808,-8.1562493)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.228606,26.752843 -0.52663,1.474566 c 0,0 -9.097782,2.07275 -14.535009,2.527828 -3.182694,-0.371752 -8.198822,-1.738272 -9.1633762,-4.95033 -0.907757,-3.022917 1.0420986,-6.77151 3.8970677,-9.163374 2.8549695,-2.391864 8.4232275,-5.135967 14.1137045,-6.635548 5.690477,-1.4995812 12.465138,-0.8868916 18.326751,0.842608 3.628169,1.070511 8.446507,3.853671 9.795332,8.320767 0.89237,2.955386 -0.07152,7.056327 -1.579892,9.58468 -1.831719,3.070358 -4.404367,5.580282 -7.372831,7.794135 -6.998685,5.219555 -14.926342,8.498615 -23.593058,11.901856 -2.388286,0.93783 -6.073127,2.318143 -8.847397,2.633154 -1.0494398,0.119162 -2.9491326,-1.263914 -2.9491326,-1.263914 0,0 10.6284106,-6.266471 15.2722926,-10.532615 3.427013,-3.148256 7.317675,-6.260693 9.163375,-10.532616 1.259478,-2.915098 2.228822,-6.573599 0.947936,-9.479354 -2.02654,-4.597311 -10.698776,-4.638131 -12.112508,1.053262 -1.787639,7.196665 9.163375,6.424895 9.163375,6.424895 z"
+       id="path4749"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccszzsssssscssssc" />
+  </g>
+</svg>
