@@ -26,11 +26,11 @@ The Irq bitig contains the following characters:
 | an | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/an/04%20-%20p08a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/an.png) | 10C23 | |
 | æn | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/en/02%20-%20p08b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/en.png) | 10C24 | 10C25 |
 | ɲ | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ń/01%20-%20p19a.png) | _ | 10C21 | 10C2B |
-| ŋ | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ŋ/03%20-%20p10a.png) | _ | 10C2C | 10C2D, 10C2E |
+| ŋ | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ŋ/03%20-%20p10a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ŋ.png) | 10C2C | 10C2D, 10C2E |
 | p | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/p/03%20-%20p17b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/p.png) | 10C2F | |
 | ar | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/ar/03%20-%20p25a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/ar.png) | 10C3A | 10C3B |
 | ær | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/er/01%20-%20p08a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/er.png) | 10C3C | |
-| æs | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/es/02%20-%20p09b.png) | _ | 10C3E | |
+| æs | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/es/02%20-%20p09b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/es.png) | 10C3E | |
 | as | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/as/04%20-%20p18a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/as.png) | 10C3D | |
 | ş | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/aş/03%20-%20p10b.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/şa.png) | 10C3F | 10C40 / 10C41, 10C42 |
 | at | _ | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/sources/at/02%20-%20p08a.png) | ![FIX](https://github.com/ICEDPaleography/font-irqbitig/raw/master/traces/at.png) | 10C43 | 10C44 |
