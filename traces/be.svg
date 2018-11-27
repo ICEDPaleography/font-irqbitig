@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="40.688595"
-   height="35.951496"
-   viewBox="0 0 40.688595 35.951496"
+   width="40.669525"
+   height="34.519516"
+   viewBox="0 0 40.669525 34.519515"
    sodipodi:docname="be.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
@@ -45,22 +45,22 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="17.906977"
-     inkscape:cx="20.811446"
-     inkscape:cy="14.963916"
+     inkscape:cx="19.546226"
+     inkscape:cy="13.654971"
      inkscape:window-x="3062"
      inkscape:window-y="581"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2"
-     fit-margin-top="1"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="1" />
+     fit-margin-top="0.8"
+     fit-margin-left="0.8"
+     fit-margin-right="0.8"
+     fit-margin-bottom="0.8" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="bitmap"
      style="display:none"
-     transform="translate(-4.0818182,-4.1643883)">
+     transform="translate(-4.3932978,-4.2874232)">
     <image
        width="48"
        height="43"
@@ -76,9 +76,10 @@
      id="layer2"
      inkscape:label="vector"
      style="display:inline"
-     transform="translate(-4.0818182,-4.1643883)">
+     transform="translate(-4.3932978,-4.2874232)">
     <g
-       id="g851">
+       id="g851"
+       transform="rotate(5.9169067,24.426115,22.140136)">
       <path
          sodipodi:nodetypes="cccscc"
          inkscape:connector-curvature="0"
