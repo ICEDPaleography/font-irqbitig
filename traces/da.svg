@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="53.331203"
-   height="35.105423"
-   viewBox="0 0 53.331203 35.105423"
+   width="52.331203"
+   height="34.105423"
+   viewBox="0 0 52.331203 34.105423"
    sodipodi:docname="da.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
@@ -45,22 +45,22 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="18.078125"
-     inkscape:cx="32.262676"
-     inkscape:cy="19.908386"
+     inkscape:cx="31.762676"
+     inkscape:cy="19.408387"
      inkscape:window-x="3126"
      inkscape:window-y="490"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2"
-     fit-margin-top="1"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="1" />
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="bitmap"
      style="display:none"
-     transform="translate(-4.8634399,-6.8029631)">
+     transform="translate(-5.3634399,-7.3029631)">
     <image
        width="64"
        height="44"
@@ -81,7 +81,7 @@
      id="layer2"
      inkscape:label="vector"
      style="display:inline"
-     transform="translate(-4.8634399,-6.8029631)">
+     transform="translate(-5.3634399,-7.3029631)">
     <g
        id="g867">
       <path
